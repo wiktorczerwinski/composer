@@ -5,12 +5,13 @@
   "license": "proprietary",
   "authors": [
     {
-      "name": "sammi",
-      "email": "email@example.com"
+      "name": "wiktor",
+      "email": "wiktor.czerwinski@ictmbo.nl"
     }
 
   ],
   "require": {
-    "phpmailer/phpmailer": "^6.5"
+    "phpmailer/phpmailer": "^6.5",
+    "monolog/monolog": "^2.0"
   }
 }
